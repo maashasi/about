@@ -1,0 +1,50 @@
+body {
+	background-color:#000;
+.title {
+	font-family: cursive  ;
+	font-size: 70px;
+	color: #ffffff;
+ 	
+ 	font-weight: 777;
+ 	text-align: center;
+}
+
+.aboutme {
+	font-family: monospace, cursive;
+	font-size: 40px;
+	color: #ffffff;
+}
+
+.block {
+	width: 1405px;
+	height: 100px;
+	background-color:#000;
+
+	margin: 40px, auto;
+}
+.bruh {
+	width: 736px;
+	height: 414px;
+	background-image: url(https://i.pinimg.com/736x/96/68/50/966850b41da7623591e2b1f55099f73f.jpg);
+	margin-left: 350px;
+}
+.ght {
+	width: 1405px;
+	height: 150px;
+	background-color: #000;
+	margin: 40px, auto;
+
+	border-top: 5px #ffffff dotted;
+}
+
+.nanams {
+	width: 1405px;
+	height: 100px;
+	background-color: #000;
+
+	margin: 40px, auto;
+
+	border-bottom: 5px #ffffff dotted;}
+
+@media (max-width: 1110)
+
